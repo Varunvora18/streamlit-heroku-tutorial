@@ -19,3 +19,4 @@ The application is built with [Streamlit](https://www.streamlit.io) and deployed
 "# streamlit-to-heroku-tutorial" 
 "# streamlit-echo "# streamlit-to-heroku-tutorial" >> README.md" 
 "# streamlit-to-heroku-tutorial" 
+"# streamlit-heroku-tutorial" 
